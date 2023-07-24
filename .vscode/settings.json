@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "grpc",
+            "database": "\\\\wsl.localhost\\Ubuntu-22.04\\home\\filipe\\study\\go\\fullcycleGRPC\\cmd\\server\\data.db"
+        }
+    ]
+}
